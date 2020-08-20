@@ -1,5 +1,5 @@
 # Lightshot-Random-Image-Downloader
-This Python code, saves random images from LighstshotM in a file called "light".
+This Python code, saves random images from Lightshot in a file called "light".
 
 
 1. Installation of all nenecessary libraries.
