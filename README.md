@@ -2,7 +2,7 @@
 This Python code, saves random images from Lightshot in a file called "light".
 
 
-1. Installation of all nenecessary libraries.
+1. Installation of all necessary libraries.
 
 2. Getting the path of the current PC.
 
